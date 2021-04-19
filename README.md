@@ -1,5 +1,5 @@
 # DeepLearning_Foundations-Applications
-*Deep Learning Foundations and Applications course(DLFA)* under Center for Artificial Intelligence, IIT Kharagpur
+*Deep Learning Foundations and Applications course(DLFA : AI61002)* under Center for Artificial Intelligence, IIT Kharagpur
 
 ## Train LeNet5 and Fully Connected NN on MNIST with SGD and Adam Optimizer and analyze:
 
